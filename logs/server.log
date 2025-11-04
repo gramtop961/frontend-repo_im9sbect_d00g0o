@@ -1,0 +1,49 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 232 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.29.67:3000/
+11:47:02 AM [vite] warning: The character ">" is not valid inside a JSX element
+57 |  
+58 |        <div className="mt-3 text-xs text-zinc-400">
+59 |          Tip: Use natural language or specify nodes like: Start -> Collect Input -> Validate -> Save -> End
+   |                                                                  ^
+60 |        </div>
+61 |      </form>
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/DiagramPrompt.jsx
+11:47:02 AM [vite] warning: The character ">" is not valid inside a JSX element
+57 |  
+58 |        <div className="mt-3 text-xs text-zinc-400">
+59 |          Tip: Use natural language or specify nodes like: Start -> Collect Input -> Validate -> Save -> End
+   |                                                                                   ^
+60 |        </div>
+61 |      </form>
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/DiagramPrompt.jsx
+11:47:02 AM [vite] warning: The character ">" is not valid inside a JSX element
+57 |  
+58 |        <div className="mt-3 text-xs text-zinc-400">
+59 |          Tip: Use natural language or specify nodes like: Start -> Collect Input -> Validate -> Save -> End
+   |                                                                                               ^
+60 |        </div>
+61 |      </form>
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/DiagramPrompt.jsx
+11:47:02 AM [vite] warning: The character ">" is not valid inside a JSX element
+57 |  
+58 |        <div className="mt-3 text-xs text-zinc-400">
+59 |          Tip: Use natural language or specify nodes like: Start -> Collect Input -> Validate -> Save -> End
+   |                                                                                                       ^
+60 |        </div>
+61 |      </form>
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/DiagramPrompt.jsx
